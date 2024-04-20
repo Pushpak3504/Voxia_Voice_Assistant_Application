@@ -28,6 +28,7 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="@dimen/_30sdp"
                 android:textColor="@color/DarkBlue"
+                android:id="@+id/logoutbtn"
                 />
 
             <EditText
@@ -35,7 +36,7 @@
                 android:layout_height="@dimen/_42sdp"
                 android:background="@drawable/customshape"
                 android:layout_marginTop="@dimen/_20sdp"
-                android:hint="       Press And Hold Voxia logo to talk"
+                android:hint="Press And Hold Voxia logo to talk"
                 android:fontFamily="@font/spacemid"
                 android:textColorHint="@color/DarkBlue"
                 android:paddingLeft="@dimen/_10sdp"
@@ -59,7 +60,6 @@
                     android:layout_marginTop="@dimen/_15sdp"
                     />
             </RelativeLayout>
-
 
             <TextView
                 android:layout_width="wrap_content"
