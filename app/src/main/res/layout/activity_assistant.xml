@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Assistant"
+    android:background="@drawable/mainscreen"
+    >
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Voxia"
+                android:fontFamily="@font/spacebold"
+                android:textSize="@dimen/_40sdp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:textColor="@color/DarkBlue"
+                />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_42sdp"
+                android:background="@drawable/customshape"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:hint="       Press And Hold Voxia logo to talk"
+                android:fontFamily="@font/spacemid"
+                android:textColorHint="@color/DarkBlue"
+                android:paddingLeft="@dimen/_10sdp"
+                android:textColor="@color/DarkBlue"
+                android:inputType="text"
+                android:layout_marginHorizontal="@dimen/_15sdp"
+                android:id="@+id/geminiedt"
+                />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+                <ImageButton
+                    android:id="@+id/findanswerbtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/logoformain"
+                    android:src="@drawable/logoformain"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="@dimen/_15sdp"
+                    />
+            </RelativeLayout>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:padding="16dp"
+                android:id="@+id/result"
+                android:textColor="@color/DarkBlue"
+                android:fontFamily="@font/spacebold"
+                android:textSize="@dimen/_10sdp"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

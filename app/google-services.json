@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426286136564",
+    "project_id": "voxia-assistant",
+    "storage_bucket": "voxia-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426286136564:android:786400c15e0aa1f4b2f2a1",
+        "android_client_info": {
+          "package_name": "com.example.voxiaassistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIx0D-jFhF_eORjPtshk6aOQI6JM_9Nd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Signup"
+    android:orientation="vertical"
+    android:background="@drawable/signup"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SignUp"
+        android:textSize="@dimen/_20ssp"
+        android:layout_marginTop="@dimen/_165sdp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/spacebold"
+        android:textColor="@color/DarkBlue"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter UserName"
+        android:layout_marginLeft="@dimen/_30ssp"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:fontFamily="@font/spacemid"
+        android:textSize="@dimen/_15ssp"
+        android:textColor="@color/DarkBlue"
+        />
+
+    <EditText
+        android:id="@+id/signuname"
+        android:textColor="@color/DarkBlue"
+        android:drawableLeft="@drawable/user"
+        android:drawablePadding="@dimen/_10sdp"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginHorizontal="@dimen/_30sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@drawable/customshape"
+        android:hint="Enter UserName"
+        android:fontFamily="@font/spaceregular"
+        android:textColorHint="@color/DarkBlue"
+        android:paddingLeft="@dimen/_10sdp"
+        android:inputType="text"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Your Email"
+        android:layout_marginLeft="@dimen/_30ssp"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:fontFamily="@font/spacemid"
+        android:textSize="@dimen/_15ssp"
+        android:textColor="@color/DarkBlue"
+        />
+
+    <EditText
+        android:id="@+id/signmail"
+        android:drawableLeft="@drawable/email"
+        android:drawablePadding="@dimen/_10sdp"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginHorizontal="@dimen/_30sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:textColor="@color/DarkBlue"
+        android:background="@drawable/customshape"
+        android:hint="Enter Email"
+        android:fontFamily="@font/spaceregular"
+        android:textColorHint="@color/DarkBlue"
+        android:paddingLeft="@dimen/_10sdp"
+        android:inputType="text"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Your Password"
+        android:layout_marginLeft="@dimen/_30ssp"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:fontFamily="@font/spacemid"
+        android:textSize="@dimen/_15ssp"
+        android:textColor="@color/DarkBlue"
+        />
+
+    <EditText
+        android:id="@+id/signpass"
+        android:drawableLeft="@drawable/password"
+        android:drawablePadding="@dimen/_10sdp"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginHorizontal="@dimen/_30sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:textColor="@color/DarkBlue"
+        android:background="@drawable/customshape"
+        android:hint="Enter Password"
+        android:fontFamily="@font/spaceregular"
+        android:textColorHint="@color/DarkBlue"
+        android:paddingLeft="@dimen/_10sdp"
+        android:inputType="textPassword"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirm Password"
+        android:layout_marginLeft="@dimen/_30ssp"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:fontFamily="@font/spacemid"
+        android:textSize="@dimen/_15ssp"
+        android:textColor="@color/DarkBlue"
+        />
+
+    <EditText
+        android:id="@+id/signcpass"
+        android:drawableLeft="@drawable/confirmpass"
+        android:drawablePadding="@dimen/_10sdp"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginHorizontal="@dimen/_30sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@drawable/customshape"
+        android:hint="Confirm Password"
+        android:fontFamily="@font/spaceregular"
+        android:textColorHint="@color/DarkBlue"
+        android:textColor="@color/DarkBlue"
+        android:paddingLeft="@dimen/_10sdp"
+        android:inputType="textPassword"
+        />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_gravity="center"
+        android:text="Sign Up"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_15sdp"
+        android:fontFamily="@font/spacebold"
+        android:backgroundTint="@color/DarkBlue"
+        android:id="@+id/btnsignup"
+        />
+
+
+</LinearLayout>
