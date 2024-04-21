@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">426286136564</string>
+    <string name="google_api_key" translatable="false">AIzaSyCIx0D-jFhF_eORjPtshk6aOQI6JM_9Nd0</string>
+    <string name="google_app_id" translatable="false">1:426286136564:android:786400c15e0aa1f4b2f2a1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCIx0D-jFhF_eORjPtshk6aOQI6JM_9Nd0</string>
+    <string name="google_storage_bucket" translatable="false">voxia-assistant.appspot.com</string>
+    <string name="project_id" translatable="false">voxia-assistant</string>
+</resources>

@@ -32,7 +32,7 @@ public class Assistant extends AppCompatActivity {
     ImageButton btn;
     TextView result;
     SpeechRecognizer speechRecognizer;
-    TextView loutbtn;
+    Button loutbtn;
     private FirebaseAuth mAuth;
 
     @Override
@@ -44,6 +44,18 @@ public class Assistant extends AppCompatActivity {
         edt = findViewById(R.id.geminiedt);
         btn = findViewById(R.id.findanswerbtn);
         result = findViewById(R.id.result);
+        loutbtn = findViewById(R.id.loutbtn);
+        mAuth = FirebaseAuth.getInstance();
+
+        loutbtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mAuth.signOut();
+                Intent intent = new Intent(Assistant.this, MainActivity.class);
+                startActivity(intent);
+                Toast.makeText(Assistant.this, "Logout Successful!", Toast.LENGTH_SHORT).show();
+            }
+        });
 
         btn.setOnClickListener(v -> {
             startSpeechToText();
@@ -159,17 +171,5 @@ public class Assistant extends AppCompatActivity {
             speechRecognizer.destroy();
         }
 
-        loutbtn = findViewById(R.id.logoutbtn);
-        mAuth = FirebaseAuth.getInstance();
-
-        loutbtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                mAuth.signOut();
-                Intent intent = new Intent(Assistant.this, MainActivity.class);
-                startActivity(intent);
-                Toast.makeText(Assistant.this, "Logout Successful!", Toast.LENGTH_SHORT).show();
-            }
-        });
     }
 }

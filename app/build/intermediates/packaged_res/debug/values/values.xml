@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="DarkBlue">#14152D</color>
+    <color name="LightBlue">#386EB5</color>
+    <color name="MidBlue">#262757</color>
+    <color name="black">#0d0b0c</color>
+    <color name="white">#F2EEF4</color>
+    <string name="app_name">Voxia Assistant</string>
+    <string name="gcm_defaultSenderId" translatable="false">426286136564</string>
+    <string name="google_api_key" translatable="false">AIzaSyCIx0D-jFhF_eORjPtshk6aOQI6JM_9Nd0</string>
+    <string name="google_app_id" translatable="false">1:426286136564:android:786400c15e0aa1f4b2f2a1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCIx0D-jFhF_eORjPtshk6aOQI6JM_9Nd0</string>
+    <string name="google_storage_bucket" translatable="false">voxia-assistant.appspot.com</string>
+    <string name="project_id" translatable="false">voxia-assistant</string>
+    <style name="Base.Theme.VoxiaAssistant" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.VoxiaAssistant" parent="Base.Theme.VoxiaAssistant"/>
+</resources>

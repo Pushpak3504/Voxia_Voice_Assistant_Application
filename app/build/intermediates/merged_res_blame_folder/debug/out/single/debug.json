@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_mainscreen.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\mainscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\font_spacemid.ttf.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\font\\spacemid.ttf"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_customshape.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\customshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\font_spaceregular.ttf.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\font\\spaceregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_lockforgot.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\lockforgot.xml"
+    },
+    {
+        "merged": "com.example.voxiaassistant.app-merged_res-41:/layout_activity_assistant.xml.flat",
+        "source": "com.example.voxiaassistant.app-main-43:/layout/activity_assistant.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_logoformain.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\logoformain.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_logo_png.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\logo_png.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_splashscreen.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\splashscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_password.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\password.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_email.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\email.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_signup.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\signup.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\font_spacesemi.ttf.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\font\\spacesemi.ttf"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_forgotpassword.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\forgotpassword.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\layout_activity_assistant.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\layout\\activity_assistant.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\anim_anime.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\anim\\anime.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\font_spacebold.ttf.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\font\\spacebold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_login.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_placebg.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\placebg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_logoutbtn.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\logoutbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_user.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\drawable_confirmpass.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\drawable\\confirmpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-merged_res-41:\\font_spacelight.ttf.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.2\\com.example.voxiaassistant.app-main-43:\\font\\spacelight.ttf"
+    }
+]
