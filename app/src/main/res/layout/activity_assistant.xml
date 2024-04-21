@@ -78,6 +78,7 @@
                 android:id="@+id/loutbtn"
                 android:layout_marginTop="@dimen/_350sdp"
                 android:layout_marginLeft="@dimen/_120sdp"
+                android:textColor="@color/white"
                 />
         </LinearLayout>
     </ScrollView>
